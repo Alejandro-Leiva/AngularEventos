@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "angular-events"
+  "defaultProject": "angular-events",
+  "cli": {
+    "analytics": false
+  }
 }
